@@ -1,5 +1,5 @@
 # Playground
-## David's Playground
+## My courses
 
 A place to play with `git`.
 
